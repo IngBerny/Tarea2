@@ -1,0 +1,55 @@
+section p {
+    background-color: #FFF9E3; /* Amarillo claro */
+    color: #555555; /* Gris oscuro */
+    font-family: "Comic Sans MS", cursive;
+}
+
+h1, h2 {
+    text-align: center;
+}
+
+h1 {
+    background-color: #FFE082; /* Amarillo claro */
+    color: #333333; /* Gris oscuro */
+    font-family: "Comic Sans MS", cursive;
+}
+
+h2 {
+    background-color: #FFD54F; /* Amarillo más oscuro */
+    color: #444444; /* Gris medio */
+    font-family: "Comic Sans MS", cursive;
+}
+
+thead tr {
+    background-color: #FFEEB3; /* Amarillo claro */
+    color: #333333; /* Gris oscuro */
+}
+
+tbody tr:nth-child(odd) {
+    background-color: #FFFACD; /* Amarillo claro */
+}
+
+tbody tr:nth-child(even) {
+    background-color: #FFEFD5; /* Amarillo claro más oscuro */
+}
+
+figure {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.article-title {
+    text-align: center;
+}
+.article-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+

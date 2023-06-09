@@ -1,0 +1,48 @@
+.waze-button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #F5A623;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    font-size: 16px;
+    transition: background-color 0.3s;
+}
+
+.waze-button:hover {
+    background-color: #F3B435;
+}
+.facebook-button {
+    background-color: #c3d7f7;
+    color: #234a7c;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+    margin-top: 10px;
+    transition: background-color 0.3s, color 0.3s;
+}
+.whatsapp-button {
+    display: inline-block;
+    margin-top: 10px;
+    background-color: #d6f0d1;
+    color: #2d804d;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: bold;
+    font-size: 16px;
+    transition: background-color 0.3s, color 0.3s;
+}
+.facebook-button:hover {
+    background-color: #234a7c;
+    color: #c3d7f7;
+}
+.whatsapp-button:hover {
+    background-color: #2d804d;
+    color: #d6f0d1;
+}
+
